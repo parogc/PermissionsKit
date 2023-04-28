@@ -14,7 +14,7 @@
 
 "permission motion name" = "Movimiento";
 
-"permission media library name" = "Biblioteca de medios de comunicación";
+"permission media library name" = "Biblioteca de medios";
 
 "permission bluetooth name" = "Bluetooth";
 
@@ -24,7 +24,7 @@
 
 "permission location always name" = "Ubicación Siempre";
 
-"permission tracking name" = "Seguimiento de";
+"permission tracking name" = "Seguimiento";
 
 "permission faceid name" = "FaceID";
 
